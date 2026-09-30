@@ -5,11 +5,11 @@ A lightweight, on-device detection system to protect everyday users from AI voic
 ---
 
 ### Team Details
-* **Hackathon:** LOGIC LEAGUE
+* **ideathon:** LOGIC LEAGUE
 * **Track:** AI/ML & Cybersecurity
 * **Team Name:** [hack smith]
-* **Team Leader:** [syed soban warsi] ([syedsoban011@gmail.com] | @[sbn-debugs])
-* **Team Member:** [aryansh garg] ([loopedaryansh@gmail.com] | @[alyansss])
+* **Team Leader:** (syed soban warsi) (syedsoban011@gmail.com)  (@sbn-debugs)
+* **Team Member:** (aryansh garg) (loopedaryansh@gmail.com) | (@alyansss)
 
 ---
 
